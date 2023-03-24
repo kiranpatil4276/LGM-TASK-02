@@ -1,1 +1,1 @@
-# LGM-TASK-02
+# LGMVIP-WebDev-Task-2
